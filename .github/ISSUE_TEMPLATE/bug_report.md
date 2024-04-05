@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-**Comportamiento esperado: **
+**Comportamiento esperado:**
 ----------------------------------------------
 Se espera que al resgitrar un gasto con categoria ...
 
-**Comportamiento actual: **
+**Comportamiento actual:**
 ----------------------------------------------
 Steps to reproduce the behavior:
 1. Ingresar a la aplicación
